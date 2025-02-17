@@ -44,8 +44,7 @@
 ├── loss.py
 ├── metrics.py
 ├── predict.py
-├── Test_assignment.md
-├── requirements.txt
+└── requirements.txt
 ```
 
 
