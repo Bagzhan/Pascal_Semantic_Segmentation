@@ -12,7 +12,6 @@
 - **mIoU Level 1 (upper/lower body)**: `0.8234`
 - **mIoU Level 2 (leaf classes)**: `0.6648`
 
----
 
 ## Структура проекта
 
@@ -49,7 +48,6 @@
 ├── requirements.txt
 ```
 
----
 
 ## **Запуск проекта**
 
@@ -89,7 +87,6 @@ python predict.py --model_path runs/exp1/best.pth --image_path data/test.jpg --o
 - **LR Scheduler**: Cosine Annealing LR.
 - **Размер входных изображений**: 512x512.
 
----
 
 ## **Возможные улучшения**
 
